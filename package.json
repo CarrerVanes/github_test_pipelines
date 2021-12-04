@@ -1,0 +1,22 @@
+{
+    "name": "test_pipeline",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CarrerVanes/github_test_pipelines.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CarrerVanes/github_test_pipelines/issues"
+    },
+    "homepage": "https://github.com/CarrerVanes/github_test_pipelines#readme",
+    "dependencies": {
+        "jest": "^27.4.3"
+    }
+}
